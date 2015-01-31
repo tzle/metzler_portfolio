@@ -1,5 +1,4 @@
 ### Portfolio: Sharon Metzler
-### sharon.metzler.baron@gmail.com
 Portfolio of Programming, Analysis, Mapping &amp; Documentation
 
 ### Programming: Python / ArcGIS 
