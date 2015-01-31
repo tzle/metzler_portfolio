@@ -1,21 +1,21 @@
-# metzler_portfolio
+# Portfolio: Sharon Metzler, sharon.metzler.baron@gmail.com
 Portfolio of Programming, Analysis, Mapping &amp; Documentation
 
-# Programming: Python / ArcGIS 
+## Programming: Python / ArcGIS 
 Input: Text file of lat/long values generated at 30-second intervals from satellite tracking of vehicle activity
 Output: Text file of roadway name, vehicle speed, time of day, and weather for each lat/long in the input file
 Task: 
 
 
 
-# Programming: R
+## Programming: R
 First-pass review of trends in preliminary datasets
 Input:
 Output:
 Task:
 
 
-# Programming: VBA
+## Programming: VBA
 Automation of Quarterly Reports
 Input: text file from PL/I database
 Output: XX PowerPoint files
@@ -26,5 +26,5 @@ per state and region in the company's book of busines.
 
 
 
-# Analysis: 
+## Analysis: 
 
