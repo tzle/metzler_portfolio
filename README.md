@@ -1,6 +1,6 @@
 ### Portfolio: Sharon Metzler
 Portfolio of Programming, Analysis, Mapping &amp; Documentation
-
+### ----------------------------------------------------------------------
 ### Programming: Python / ArcGIS 
 Input: Text file of lat/long values generated at 30-second intervals from satellite tracking of vehicle activity
 Output: Text file of roadway name, vehicle speed, time of day, and weather for each lat/long in the input file
